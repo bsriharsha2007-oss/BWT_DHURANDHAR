@@ -24,9 +24,9 @@ However, millions of people:
 
 **Existing platforms such as**:
 
-**Groww **
+ **Groww **
 
-**Zerodha**
+ **Zerodha**
 
 Primarily focus on **investment tracking** and **trading**. 
 
@@ -48,7 +48,7 @@ There is no system that converts financial behavior into identity and projects i
 
 It answers two critical questions:
 
-1️)** Who are you financially?**
+1️) ** Who are you financially?**
 
 2️) **Where will your financial behavior take you?**
 
