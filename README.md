@@ -3,12 +3,14 @@
 Behavioral Financial Identity & Future Projection Platform
 
 👥 **Team**: **DHURANDHAR**
+
 🎯 **Hackathon Theme**: Future Finance Platforms — Access, Protect, Grow
+
 📌 **Problem Statement**
 
 Traditional financial systems evaluate individuals using:
 
- • **Salary slips**
+• **Salary slips**
 
 • **Credit history**
 
