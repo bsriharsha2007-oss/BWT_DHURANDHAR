@@ -1,14 +1,16 @@
-FutureDNA
-Behavioral Financial Identity & Future Projection Platform
+**FutureDNA**-**Behavioral Financial Identity & Future Projection Platform**
+
 Team : **DHURANDHAR**
-**Problem Statement**
+
+**Problem Statement** :-
+
 Traditional financial systems evaluate individuals using:
 
-1.Salary slips
+1.**Salary slips**
 
-2.Credit history
+2.**Credit history**
 
-3.Bank balances
+3.**Bank balances**
 
 However, millions of people:
 
@@ -21,8 +23,14 @@ However, millions of people:
 4.Are misunderstood by conventional credit scoring systems
 
 **Existing platforms such as**:
-Groww,Zerodha
-Primarily focus on investment tracking and trading. They do not:
+
+**Groww **
+
+**Zerodha**
+
+Primarily focus on **investment tracking** and **trading**. 
+
+**They do not**:
 
 1.Analyze financial behavior patterns
 
@@ -33,32 +41,46 @@ Primarily focus on investment tracking and trading. They do not:
 There is no system that converts financial behavior into identity and projects its future impact.
 
 **Solution**:-
-FutureDNA
-FutureDNA creates a Behavioral Financial Identity (Financial DNA) and combines it with a Future Financial Projection Engine.
+
+**FutureDNA**
+
+**FutureDNA** creates a Behavioral Financial Identity (Financial DNA) and combines it with a Future Financial Projection Engine.
+
 It answers two critical questions:
 
-1️) Who are you financially?
+1️)** Who are you financially?**
 
-2️) Where will your financial behavior take you?
+2️) **Where will your financial behavior take you?**
 
 Instead of relying only on income and credit scores,
-FutureDNA:
+
+**FutureDNA**:
+
 Analyzes income stability
+
 Evaluates savings habits
+
 Measures spending volatility
+
 Assesses debt burden
+
 Classifies financial personality type
+
 Simulates future financial growth
 
 **Core Concept** :
+
 Financial behavior → Financial Identity
+
 Financial Identity → Financial Trajectory
+
 Financial Trajectory → Future Outcomes
 
 **Key Features** :
 
 
 1️⃣** Financial DNA Classification**
+
 Users are classified into behavioral types such as:
 
 🟢 The Builder (Stable & Growth-Oriented)
@@ -72,12 +94,17 @@ Users are classified into behavioral types such as:
 🟣 The Impulsive Spender
 
 Each type includes:
+
 Risk Profile
+
 Protection Score
+
 Growth Potential Index
+
 Credit Readiness Indicator
 
 2️⃣** Future Projection Engine**
+
 Simulates financial growth under three scenarios:
 
 Safe Growth (5%)
@@ -87,9 +114,11 @@ Balanced Growth (10%)
 Aggressive Growth (18%)
 
 All projections are adjusted for a 6% inflation rate.
+
 The Financial DNA type influences projection stability.
 
 3️⃣ **Financial Health Score (0–100)**
+
 Calculated using:
 
 Savings rate
@@ -103,7 +132,10 @@ Expense volatility
 Provides a quick indicator of financial strength.
 
 4️⃣ **Personalized AI Suggestions (Rule-Based)**
-Based on DNA type and projection results, the system provides:
+
+Based on DNA type and projection results, 
+
+the system provides:
 
 Risk warnings
 
@@ -113,6 +145,6 @@ Debt management suggestions
 
 Savings improvement tips.
 
-system architecture : - 
+**system architecture** : - 
 
 <img width="1234" height="163" alt="image" src="https://github.com/user-attachments/assets/626a7426-7da7-4ad6-a31c-bb099a5c9148" />
