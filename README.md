@@ -3,9 +3,13 @@ Behavioral Financial Identity & Future Projection Platform
 Team : DHURANDHAR
 **Problem Statement**
 Traditional financial systems evaluate individuals using:
+
 1.Salary slips
+
 2.Credit history
+
 3.Bank balances
+
 However, millions of people:
 1.Earn through digital and gig platforms
 2.Have irregular income patterns
