@@ -112,3 +112,7 @@ Growth recommendations
 Debt management suggestions
 
 Savings improvement tips.
+
+system architecture : - 
+
+<img width="1234" height="163" alt="image" src="https://github.com/user-attachments/assets/626a7426-7da7-4ad6-a31c-bb099a5c9148" />
